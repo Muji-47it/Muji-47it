@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muji-47it
+- 👋 Hi, I’m **Mujtaba**
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning backend.
 - 💞️ I’m looking to collaborate on linkedin.
